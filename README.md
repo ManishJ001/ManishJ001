@@ -29,6 +29,7 @@
 - 💅 Bootstrap, SASS, CSS, Tailwind
 - 💽 MySQL, SQL, Mongo
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManishJ001/ManishJ001/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManishJ001/ManishJ001/output/pacman-contribution-graph.svg">
